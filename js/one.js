@@ -189,15 +189,9 @@
             
     };//SL.andRedEyeLikeGettingPersonal
 
-    (function() {
-
-        setTimeout(function() {
-            SL.andRedEyeLikeGettingPersonal.init();
-        }, 10);
-
-    })();
-
-
+    $(function() {
+        SL.andRedEyeLikeGettingPersonal.init();
+    });
 
 
 }.call(window.andRedEyeLikeGettingPersonal || {}));
