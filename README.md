@@ -35,7 +35,7 @@ desktop   :collision:
 - cdn.optimizely.com/img/153957092/f78b157d173749bb845935c399be190f.png :arrow_heading_up:
 - cdn.optimizely.com/img/153957092/3138e33a11fa41cb8337440f3abcd788.png :arrow_heading_up:
 
-<kfd>gettingPersonal</kfd>
+<kbd>gettingPersonal</kbd>
 ![](images/hero.png)
 
 
