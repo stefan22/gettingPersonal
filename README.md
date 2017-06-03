@@ -42,8 +42,8 @@ desktop   :collision:
 
 ### to do: :coffee: :page_facing_up:
 - check on IE10
-- remove comments
-- build other five hero images on photoshop
+- remove js comments
+- images build/photoshop
 
 
 ### cards page images:  (need larger images)
