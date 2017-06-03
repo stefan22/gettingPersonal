@@ -12,6 +12,8 @@
 ### hero links
 //cdn.optimizely.com/img/153957092/f78b157d173749bb845935c399be190f.png
 
+//cdn.optimizely.com/img/153957092/3138e33a11fa41cb8337440f3abcd788.png
+
 - js hint-ed
 
 
