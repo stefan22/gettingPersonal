@@ -8,13 +8,13 @@ and is one of the highest converting channels.
 ensuring landing page content is relevant to the advert copy and simplified to take users to where they need to go will increase search relevance and therefore conversions
 
 ### targeting . :jack_o_lantern:
-www.gettingpersonal.co.uk
-www.gettingpersonal.co.uk/cards
-www.gettingpersonal.co.uk/birthday-presents/birthday-gifts.htm
-www.gettingpersonal.co.uk/anniversary-presents/anniversary-gifts.htm
-www.gettingpersonal.co.uk/gifts-for-him/personalised-gifts-for-him.htm
-www.gettingpersonal.co.uk/gifts-for-her/personalised-gifts-for-her.htm
-www.gettingpersonal.co.uk/personalised-presents/personalised-gifts.htm
+- www.gettingpersonal.co.uk     
+- www.gettingpersonal.co.uk/cards     
+- www.gettingpersonal.co.uk/birthday-presents/birthday-gifts.htm       
+- www.gettingpersonal.co.uk/anniversary-presents/anniversary-gifts.htm      
+- www.gettingpersonal.co.uk/gifts-for-him/personalised-gifts-for-him.htm      
+- www.gettingpersonal.co.uk/gifts-for-her/personalised-gifts-for-her.htm      
+- www.gettingpersonal.co.uk/personalised-presents/personalised-gifts.htm      
 
 ### devices
 desktop   :collision:
@@ -32,8 +32,8 @@ desktop   :collision:
 
 
 ### hero links     :round_pushpin:
-//cdn.optimizely.com/img/153957092/f78b157d173749bb845935c399be190f.png :arrow_heading_up:
-//cdn.optimizely.com/img/153957092/3138e33a11fa41cb8337440f3abcd788.png :arrow_heading_up:
+- cdn.optimizely.com/img/153957092/f78b157d173749bb845935c399be190f.png :arrow_heading_up:
+- cdn.optimizely.com/img/153957092/3138e33a11fa41cb8337440f3abcd788.png :arrow_heading_up:
 
 <kfd>gettingPersonal</kfd>
 ![](images/hero.png)
