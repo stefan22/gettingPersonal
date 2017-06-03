@@ -51,4 +51,4 @@ desktop   :collision:
 - center image is 209 x 237 (ok)
 - right image (360 x 237)  Needs to be a bit wider  360 instead of 320
 
-:100%:
+:100:
