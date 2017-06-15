@@ -1,3 +1,18 @@
+/* _optimizely_evaluate=force */
+function checkifbodyexist() {
+    if (document.querySelectorAll('.superview-modular-container')[0] === undefined) {
+          setTimeout(function() {
+              checkifbodyexist();
+          }, 10);
+    } 
+    else {
+        document.querySelectorAll('.superview-modular-container')[0].style.opacity = 0;
+    }
+}//checkifbodyexists
+
+checkifbodyexist();
+/* _optimizely_evaluate=safe */
+
 (function(andRedEyeLikeGettingPersonal, undefined) {
  var $ = window.jQuery;
  var SL = {};
@@ -24,13 +39,13 @@
    document.getElementById('content').style.display = 'none';
   },
   towerControl: function() {
-   var cards = "https://www.gettingpersonal.co.uk/cards";
-   var bday = "https://www.gettingpersonal.co.uk/birthday-presents/birthday-gifts.htm";
-   var anni = "https://www.gettingpersonal.co.uk/anniversary-presents/anniversary-gifts.htm";
-   var him = "https://www.gettingpersonal.co.uk/gifts-for-him/personalised-gifts-for-him.htm";
-   var her = "https://www.gettingpersonal.co.uk/gifts-for-her/personalised-gifts-for-her.htm";
-   var pres = "https://www.gettingpersonal.co.uk/personalised-presents/personalised-gifts.htm";
-   switch (window.location.href) {
+   var cards = "/cards";
+   var bday = "/birthday-presents/birthday-gifts.htm";
+   var anni = "/anniversary-presents/anniversary-gifts.htm";
+   var him = "/gifts-for-men";
+   var her = "/gifts-for-her";
+   var pres = "/personalised-presents/personalised-gifts.htm";
+   switch (window.location.pathname) {
     case cards:
      SL.andRedEyeLikeGettingPersonal.addonOne();
      break;
@@ -108,7 +123,7 @@
  };
 
  (function pollForjQuery() {
-        if (window.jQuery !== undefined) {
+        
           if(document.getElementsByClassName('superview-header-h1') !== null){
             try {
 
@@ -119,7 +134,7 @@
                 console.log('TRY ERROR: '+ err);
             }
  					} else { setTimeout(pollForjQuery, 25);}
-        } else { setTimeout(pollForjQuery, 25);}
+      
     })();
 
 
