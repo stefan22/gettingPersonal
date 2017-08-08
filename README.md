@@ -30,4 +30,10 @@ desktop   :collision:
 - images build/photoshop
 
 
+<br>
+<kbd>landing-page</kbd>
+![](gettingPersonal/images/Updated PPC Landing Page.png)
+
+
+
 :100:
