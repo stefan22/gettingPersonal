@@ -33,8 +33,7 @@ desktop   :collision:
 <br/>
 <kbd>landing-page</kbd>    
 
-![ ](/images/Updated PPC Landing Page.png)
-
+[](images/Updated PPC Landing Page.png)
 
 
 :100:
