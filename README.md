@@ -31,8 +31,8 @@ desktop   :collision:
 
 
 <br>
-<kbd>landing-page</kbd>
-![](gettingPersonal/images/Updated PPC Landing Page.png)
+<kbd>landing-page</kbd>     
+![gp](images/Updated PPC Landing Page.png)
 
 
 
